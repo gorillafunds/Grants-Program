@@ -70,15 +70,12 @@ Both do not automate the Store-Creation right now and have no connected CMS.
   - Jonas Hartweg (Front End, UI/UX-Expert)
   - Valentin Hehl (Security, Backend)
 
-- Designer:
-
-  - Reimar Servas
-
-- Consultancy (Design Systems, Bridging from Design to Code)
+- Design Consultant (freelance):
 
   - Reimar Servas
 
 - Product Management:
+
   - Aymie Lapie
 
 ### Contact
@@ -147,11 +144,11 @@ as this Repo also contains our Corporate Repositories
 ### Team LinkedIn Profiles
 
 - Jakob Sievers: https://www.linkedin.com/in/jakob-sievers-97579b201/
-- Reimar Servas: https://www.linkedin.com/in/reimarservas/
 - Jonas Hartweg: https://www.linkedin.com/in/jonas-hartweg-66272449/
 - Sascha Metz: No LinkedIn
 - Tobias Metz: No LinkedIn
 - Valentin Hehl: No LinkedIn
+- Reimar Servas: https://www.linkedin.com/in/reimarservas/
 - Aymie Lapie: https://www.linkedin.com/in/aymie-laipe/
 
 ## Development Status :open_book:
